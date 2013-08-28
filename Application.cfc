@@ -1,4 +1,4 @@
-component {
+component extends="taffy.core.api" {
 
 	this.name = "gobro";
 	
